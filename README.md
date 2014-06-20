@@ -1,0 +1,4 @@
+glob.js
+=======
+
+global.js
