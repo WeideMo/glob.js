@@ -1,4 +1,3 @@
-glob.js
-=======
+# glob.js
 
-global.js
+A glob javascript's utils for Nandu Mall Project. 
